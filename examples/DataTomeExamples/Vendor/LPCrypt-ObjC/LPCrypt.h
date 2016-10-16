@@ -3,7 +3,7 @@
 //  lpcrypt-lib
 //
 //  Created by Paul Shapiro on 6/23/2014.
-//  Copyright (c) 2014 Producer. All rights reserved.
+//  Copyright (c) 2014 Lunarpad Corporation. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
